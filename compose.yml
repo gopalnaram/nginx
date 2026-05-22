@@ -1,7 +1,7 @@
 services:
 
   movie:
-    image: sreenadh45/moviev1
+    image: sreenadh45/movie:v3
     ports:
       - "1111:80"
     deploy:
